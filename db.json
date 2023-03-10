@@ -1,12 +1,12 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "title": "First post!22",
+      "content": "My first1 content!"
     }
   ],
-  "comments" : [
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
