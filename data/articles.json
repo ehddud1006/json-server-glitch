@@ -1,13 +1,13 @@
 [
   {
     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "title": "킹동영",
+    "title": "안녕하세요",
     "content": "string",
     "summary": "string",
     "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "view_count": 0,
+    "view_count": 10,
     "is_announcement": true,
-    "like_count": 0,
+    "like_count": 5,
     "tag_links": [],
     "poll": {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -25,13 +25,13 @@
   },
   {
     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "title": "킹동영",
+    "title": "화이팅입니다!",
     "content": "string",
     "summary": "string",
     "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "view_count": 0,
+    "view_count": 1,
     "is_announcement": true,
-    "like_count": 0,
+    "like_count": 2,
     "tag_links": [],
     "poll": {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -49,13 +49,13 @@
   },
   {
     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "title": "킹동영",
+    "title": "중간고사 고생하셨습니다",
     "content": "string",
     "summary": "string",
     "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "view_count": 0,
+    "view_count": 100,
     "is_announcement": true,
-    "like_count": 0,
+    "like_count": 2,
     "tag_links": [],
     "poll": {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -73,13 +73,13 @@
   },
   {
     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "title": "킹동영",
+    "title": "중요한건 무엇인가요?",
     "content": "string",
     "summary": "string",
     "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "view_count": 0,
+    "view_count": 1,
     "is_announcement": true,
-    "like_count": 0,
+    "like_count": 1,
     "tag_links": [],
     "poll": {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
