@@ -1,13 +1,13 @@
 {
   "id": "string",
-  "title": "string",
-  "content": "string",
+  "title": "안녕하세요. 김동영이라고 합니다.",
+  "content": "프론트엔드 개발에 관심이 있습니다.\n 프론트와 백엔드를  간단하게 구현해보면서 저의 노력이 바로 화면에 반영되는 시각적인 자극과 성취감을 주는 웹 프론트엔드분야에 끌리게 되었습니다.\n",
   "summary": "string",
   "board_id": "mbti",
   "is_announcement": true,
-  "view_count": 0,
-  "like_count": 0,
-  "comment_count": 0,
+  "view_count": 100,
+  "like_count": 7,
+  "comment_count": 2,
   "tags": [],
   "poll": {
     "id": "string",
