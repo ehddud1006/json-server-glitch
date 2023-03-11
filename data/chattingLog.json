@@ -1,0 +1,44 @@
+{
+  "logs": [
+    {
+      "idx": 1,
+      "type": "CHAT",
+      "message": "안녕하세요!",
+      "senderNickname": "채팅방 참여자1",
+      "senderEmail": "user1@example.com",
+      "sendTime": 1678544496282
+    },
+    {
+      "idx": 2,
+      "type": "CHAT",
+      "message": "현재 제가 만든 Json 서버로 동작중입니다",
+      "senderNickname": "채팅방 참여자2",
+      "senderEmail": "user2@example.com",
+      "sendTime": 1678544496282
+    },
+    {
+      "idx": 7,
+      "type": "CHAT",
+      "message": "실제서버는 꺼져있어요ㅠㅠ",
+      "senderNickname": "채팅방 참여자2",
+      "senderEmail": "user2@example.com",
+      "sendTime": 1678544496282
+    },
+    {
+      "idx": 3,
+      "type": "CHAT",
+      "message": "따라서 채팅기능이 제대로 동작하지 않아요.",
+      "senderNickname": "채팅방 참여자1",
+      "senderEmail": "user11@example.com",
+      "sendTime": 1678544496282
+    },
+    {
+      "idx": 4,
+      "type": "CHAT",
+      "message": "방문해주셔서 감사합니다!",
+      "senderNickname": "채팅방 참여자1",
+      "senderEmail": "user19@example.com",
+      "sendTime": 1678544496282
+    }
+  ]
+}

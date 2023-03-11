@@ -1,0 +1,54 @@
+{
+  "channels": [
+    {
+      "id": "1",
+      "channelName": "프론트엔드 개발자를 위한 채팅방",
+      "limitParticipants": 10,
+      "currentParticipants": 5,
+      "timeToLive": 3600,
+      "channelHashTags": [
+        {
+          "hashTag": {
+            "tagName": "프론트"
+          }
+        },
+        {
+          "hashTag": {
+            "tagName": "자바스크립트"
+          }
+        },
+        {
+          "hashTag": {
+            "tagName": "HTML"
+          }
+        },
+        {
+          "hashTag": {
+            "tagName": "CSS"
+          }
+        }
+      ],
+      "channelType": "TEXT"
+    },
+    {
+      "id": "2",
+      "channelName": "백엔드 개발자를 위한 채팅방",
+      "limitParticipants": 20,
+      "currentParticipants": 15,
+      "timeToLive": 7200,
+      "channelHashTags": [
+        {
+          "hashTag": {
+            "tagName": "nodejs"
+          }
+        },
+        {
+          "hashTag": {
+            "tagName": "spring"
+          }
+        }
+      ],
+      "channelType": "TEXT"
+    }
+  ]
+}
