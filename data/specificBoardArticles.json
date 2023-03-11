@@ -13,6 +13,7 @@
       "is_announcement": true,
       "like_count": 10,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -29,7 +30,7 @@
     },
     {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-      "title": "프론트엔드 개발자가 되고 싶어요!",
+      "title": "프론트엔드 개발자가 되고 싶습니다!",
       "content": "string",
       "summary": "string",
       "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -37,6 +38,7 @@
       "is_announcement": true,
       "like_count": 100,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -61,6 +63,7 @@
       "is_announcement": true,
       "like_count": 10,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -77,7 +80,7 @@
     },
     {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-      "title": "프론트엔드 개발자가 되고 싶어요!",
+      "title": "프론트엔드 개발자가 되고 싶습니다!",
       "content": "string",
       "summary": "string",
       "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -85,6 +88,7 @@
       "is_announcement": true,
       "like_count": 100,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -109,6 +113,7 @@
       "is_announcement": true,
       "like_count": 10,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -125,7 +130,7 @@
     },
     {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-      "title": "프론트엔드 개발자가 되고 싶어요!",
+      "title": "프론트엔드 개발자가 되고 싶습니다!",
       "content": "string",
       "summary": "string",
       "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -133,6 +138,7 @@
       "is_announcement": true,
       "like_count": 100,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -157,6 +163,7 @@
       "is_announcement": true,
       "like_count": 10,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -173,7 +180,7 @@
     },
     {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-      "title": "프론트엔드 개발자가 되고 싶어요!",
+      "title": "프론트엔드 개발자가 되고 싶습니다!",
       "content": "string",
       "summary": "string",
       "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -181,6 +188,7 @@
       "is_announcement": true,
       "like_count": 100,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -205,6 +213,7 @@
       "is_announcement": true,
       "like_count": 10,
       "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",
@@ -221,7 +230,7 @@
     },
     {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-      "title": "프론트엔드 개발자가 되고 싶어요!",
+      "title": "프론트엔드 개발자가 되고 싶습니다!",
       "content": "string",
       "summary": "string",
       "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -229,6 +238,57 @@
       "is_announcement": true,
       "like_count": 100,
       "tag_links": [],
+      "comment_count": 5,
+      "poll": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "title": "string",
+        "is_multiple": false,
+        "contents": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "content": "string"
+          }
+        ]
+      },
+      "created_at": "2022-11-26T06:13:25.046Z",
+      "updated_at": "2022-11-26T06:13:25.047Z"
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "title": "김동영입니다.",
+      "content": "string",
+      "summary": "string",
+      "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "view_count": 20,
+      "is_announcement": true,
+      "like_count": 10,
+      "tag_links": [],
+      "comment_count": 5,
+      "poll": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "title": "string",
+        "is_multiple": false,
+        "contents": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "content": "string"
+          }
+        ]
+      },
+      "created_at": "2022-11-26T06:13:25.046Z",
+      "updated_at": "2022-11-26T06:13:25.047Z"
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "title": "프론트엔드 개발자가 되고 싶습니다!",
+      "content": "string",
+      "summary": "string",
+      "board_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "view_count": 1100,
+      "is_announcement": true,
+      "like_count": 100,
+      "tag_links": [],
+      "comment_count": 5,
       "poll": {
         "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "title": "string",

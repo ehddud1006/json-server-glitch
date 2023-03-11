@@ -9,6 +9,7 @@
     "is_announcement": true,
     "like_count": 5,
     "tag_links": [],
+    "comment_count": 1,
     "poll": {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
       "title": "string",
@@ -33,6 +34,7 @@
     "is_announcement": true,
     "like_count": 2,
     "tag_links": [],
+    "comment_count": 3,
     "poll": {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
       "title": "string",
@@ -56,6 +58,7 @@
     "view_count": 100,
     "is_announcement": true,
     "like_count": 2,
+    "comment_count": 5,
     "tag_links": [],
     "poll": {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -80,6 +83,7 @@
     "view_count": 1,
     "is_announcement": true,
     "like_count": 1,
+    "comment_count": 5,
     "tag_links": [],
     "poll": {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
